@@ -8,6 +8,7 @@ int width;
 	 this.length=length;
 	 this.width=width;
  }
+ String color;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
